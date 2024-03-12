@@ -10,6 +10,11 @@ Reactive Jobs is a mobile app developed in React Native using Expo. It allows us
 - Apply for jobs directly to the job portal
 
 ## Screenshots
+Here are some screenshots of the Reactive Jobs app:
+
+![Welcome](/screenShots/Welcome.png)
+![Job description](/screenShots/job_description.png)
+![Search Screen](/screenShots/search_screen.png)
 
 
 ## Installation
